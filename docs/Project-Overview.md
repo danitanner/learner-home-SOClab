@@ -30,10 +30,9 @@ I examined these events from multiple persepectives:
 I did not yet cross these perspectives over until the final, most enjoyable part of this project, which is fully covered in the next section; a simulated DDOS attack pattern from my local machine to my virtual machine.
 
 ## Simulated DDOS Pattern
+Due to limitations which I will explain at the end of this document, I can't implement an actual DDoS attack. However, I can implement the pattern of a DDoS attack and observe them.
 
-
-
-
+## Limitations
 
 ## Key Outcomes
 Through this project, I gained:
